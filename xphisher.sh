@@ -7,14 +7,10 @@ command -v unzip > /dev/null 2>&1 || { echo >&2 "Unzip is not installed ! Instal
 }
 banner() {
 clear
-printf " \e[33;1m _     _       _     _     _               \e[0m\n"
-printf " \e[33;1m\ \  / /      | |   (_)   | |              \e[0m\n"
-printf " \e[33;1m \ \/ /  _ __ | |__  _ ___| |__   ___ _ __ \e[0m\n"
-printf " \e[32;1m  \  \ \e[33;1m | '_ \| '_ \| / __| '_ \ / _ \ '__|\e[0m\n"
-printf " \e[32;1m / /\ \ | |_) | | | | \__ \ | | |  __/ |    \e[0m\n"
-printf " \e[32;1m/_/  \_\| .__/|_| |_|_|___/_| |_|\___|_|    \e[0m\n"
-printf " \e[33;1m        | |                                 \e[0m\n"
-printf " \e[33;1m        |_|          \e[1;97m    Version 2.0      \e[0m\n"
+printf "\e[0m\e[1;41m  _   _    __    ___  _  _  ____  ____       ___    _   ___  \e[0m\n"
+printf "\e[0m\e[1;41m ( )_( )  /__\  / __)( )/ )( ___)(  _ \     (__ \  / ) (__ ) \e[0m\n"
+printf "\e[0m\e[1;41m  ) _ (  /(__)\( (__  )  (  )__)  )   / ___  / _/ / _ \ (_ \ \e[0m\n"
+printf "\e[0m\e[1;41m (_) (_)(__)(__)\___)(_)\_)(____)(_)\_)(___)(____)\___/(___/ \e[0m\n"
 printf " \n""
 printf " \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by htr-tech (tahmid.rayat)\e[0m\n"
 printf " \n"
