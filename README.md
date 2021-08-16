@@ -2,7 +2,7 @@
 <a href="#"><img title="Made in India" src="https://img.shields.io/badge/MADE%20IN-INDIA-green?colorA=#FF9933&colorB=#138808&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Xphisher" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/xphisher.png"></a>
+<a href="#"><img title="Xphisher" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/bg.jpg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/deco-der"><img title="Author" src="https://img.shields.io/badge/Author-htr--tech-red.svg?style=for-the-badge&logo=github"></a>
